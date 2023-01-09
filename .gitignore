@@ -1,0 +1,17 @@
+x64/
+Debug/
+Win32Project1.VC
+.depend
+makefile
+Win32Project1.vcxproj.user
+default_digital6_125epochs
+Win32Project1.vcxproj
+Win32Project1.vcxproj.filters
+Win32Project1.sln
+Win32Project1.VC.db
+default_digital6_125epochs.txt
+.vs/
+label10000_test.txt
+label60000_train.txt
+patch10000_test.txt
+patch60000_train.txt
